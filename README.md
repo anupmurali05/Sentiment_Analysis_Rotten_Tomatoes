@@ -9,5 +9,7 @@ http://127.0.0.1:8000/docs#/default/get_prediction_prediction_get
 
 ## Screenshots
 
-![]()
+![image](https://user-images.githubusercontent.com/103100967/171640396-790c0c19-3ae3-4c33-8696-0d22cd88355c.png)
+![image](https://user-images.githubusercontent.com/103100967/171640607-89667345-9ecb-440b-a981-050afe2be49b.png)
+
 
